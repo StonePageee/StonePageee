@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### You are my![Visitor Count](https://profile-counter.glitch.me/StonePageee/count.svg)visitor!
+### You are my ![Visitor Count](https://profile-counter.glitch.me/StonePageee/count.svg) visitor!
+
